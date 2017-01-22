@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_01287e1bb6f9623f863bec2d635747f9634fdc79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_ff4da9ba1c1229ede632826cb4364ad6f50b1fcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_c50b7db6477901b57d4f09afd381b97978c6ec13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_c62fdfb6b85f5f8a96d3f0f34b85a519728e5b7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_cfa43a111b78fb3edf165bf647aad75f6c5c8a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\google-http-client-1.22.0_69fc2aa5594cd7d47ff77c88171125e8cbb92d40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_0c1d47af5678b610d16b48dba8567cf2a30b86b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_4fb570d80a4d0787da702fd6aa613fa25c048e91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_2cd2c628c30b78aec70fb81bf8dca44909fa883f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2ac7f3db1f8319cb66c37a754f8dcc903a1e1445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_2270578672c68b75a61dc22cdee7081edf1d2ca6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_c37ba88360bf8d8dce4ce6c4c4d06df1ea7408f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_2cd2c628c30b78aec70fb81bf8dca44909fa883f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_bcb10e5cd5cf5ab2e2215d59009143a30b1f136c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\me.dm7.barcodescanner-zxing-1.8.4_df44ad0dd83fe3a524dac4896eba5b2f822d2c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\incremental-runtime-classes\flavor\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d9d4e90f0bfb44e36f25f10e4fc660b0ba88fe0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\instant-run_e76402ada1ebfcce4563c07ae7c087346a58957c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_3775033d9bf5613d2bd9f703a070ebd3b6ccbf49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_cfa43a111b78fb3edf165bf647aad75f6c5c8a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-palette-v7-24.0.0_833269745c6b6bfcf17d5af82e54b48650220c03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\picasso-2.5.0_49367f3dbff032d7e282096870b58bc5dc6d9b68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\google-api-client-1.22.0_28a6a766f9b923d8b14b59e17df90847a9d038bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_01287e1bb6f9623f863bec2d635747f9634fdc79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f3fe3ad1060358ffbea08bb3b691003651566e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\guava-jdk5-17.0_97ee8f2a80112af645c8ec427298eef30fdf07c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_63c3b6a3413a79fe9c7d7f482f31f94bae1762b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\google-http-client-1.22.0_69fc2aa5594cd7d47ff77c88171125e8cbb92d40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_d517a2b5162ac49cee21dfa5bb07742078dd5321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-multidex-1.0.1_1351ef9ef5f43292a2126a0b3b35d5a273606f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_20f54f9801a4b86424ae1f11aaff9566958f6a22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_39f20f1d4e8f400c691fa65930067ed9cd58e7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_6c4b08f53143a3ce68edf9e65145a1fc617fc6c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_c50b7db6477901b57d4f09afd381b97978c6ec13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a7c1409ffdb16fb49fa9d42c7746fde203281167\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-compat-24.2.1_f08fbdb85f20ccca5acfda7dd20e5f9664be9e93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_f918003c6c9411c177d244e9080a984429fc3990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_4fb570d80a4d0787da702fd6aa613fa25c048e91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_e33003cb553496ee27c2492278201e43e2909eb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-v4-24.2.1_fd2f50090c579432d8c209af4578a8fffe1091d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_d6960782175e20b735f8472573652141c1e4f6f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d9a6cf13ee907a4c44537ec28b5dffd3c1262bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d6dd7e7d125040c59c6b74747fe76f310ba70759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\google-http-client-jackson2-1.22.0_dfecfa5cf9e4539758d467818667bd93f11a0c2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_e92880a0e022f02033d2c35fb58ec9162995f09e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_9dd82fca7190c07bacbed5cbdae82c512a0a300d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_305eaf502278adca1eb74642466a79ec0359e62d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_833269745c6b6bfcf17d5af82e54b48650220c03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-common-9.8.0_1095fff312cae0f524ec66388d2d3132a1ef2c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\google-api-client-1.22.0_28a6a766f9b923d8b14b59e17df90847a9d038bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-support-compat-24.2.1_eb066eddb262fdc1fe281dcbeb8327438ba21efc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_63c3b6a3413a79fe9c7d7f482f31f94bae1762b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-support-core-utils-24.2.1_f3fe3ad1060358ffbea08bb3b691003651566e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_eb0e96d86af020b12d2877209787cbda5536a4af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_8099a8562ff90b05e860538b5c56cc3a07e18a76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_c67dae0788d8a549c8e6bd4bbdf9de6e2b19d163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_4727b9332f95c154b9e6a12aceeacc8bc9f2b849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_4a811518d36f292ba62656004904220f9c990926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_d517a2b5162ac49cee21dfa5bb07742078dd5321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c62df1b6727b5295afec08626520f78346cb8faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_094cc8df88cb6da4dffe05d053aaad11349ba6e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\me.dm7.barcodescanner-core-1.8.4_9744d15e1537fbd581e31d134411a882c05e5bd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-support-v4-24.2.1_fd2f50090c579432d8c209af4578a8fffe1091d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_7f2bac30dfc3c8c2849f1f188fd4b841293fcb7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_a00d5d9a831c8d072b7ba1f10c79332c90638c2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_39f20f1d4e8f400c691fa65930067ed9cd58e7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_7f2bac30dfc3c8c2849f1f188fd4b841293fcb7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_9dd82fca7190c07bacbed5cbdae82c512a0a300d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_1095fff312cae0f524ec66388d2d3132a1ef2c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9e4f596218acc70a14062bf496c841a6c28ae55b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_df3347250cb0f0e93ebe30c172eaf06eb143b4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.volley-volley-1.0.0_fee133d05fbc114dacf0ad70b8e25c3c7dfb2304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_cf7e82ac1354a75b54f675df208301cbbc6293d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_65d799cde1b0111b007a29f689b4824b34e9eb55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_0b291cd7672f460a7a474e7a156f25ab15037d26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_68d4eea191fc3ab0ee2f52eee2148143587c8930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_4727b9332f95c154b9e6a12aceeacc8bc9f2b849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-multidex-1.0.1_b89195b747770d38f5bb10a3ad01c3979da1de8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_6a37ae73978bb3aa43149a4442ce57332996a9bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\google-http-client-jackson2-1.22.0_dfecfa5cf9e4539758d467818667bd93f11a0c2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\butterknife-annotations-8.4.0_6672421247a284eca425a7b657bfe35000c22f93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_0b73aecd0f9219958b91075f6e691fe39892f5f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_7f00d957c4ca5d7e2bf77306d607c935d2a0045b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-config-9.8.0_f32b09ce7e2bbaa008cd09cefc2bb18177edf878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_f32b09ce7e2bbaa008cd09cefc2bb18177edf878\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_bfa223b09a0e2d18e7ec679dcac316af8676953d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\me.dm7.barcodescanner-zxing-1.8.4_d04c180caaa270b784291c56200aa92c1a0122ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_6a37ae73978bb3aa43149a4442ce57332996a9bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_aa3396273c5ceace003982681a66bbd4f3813616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_c37ba88360bf8d8dce4ce6c4c4d06df1ea7408f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c62df1b6727b5295afec08626520f78346cb8faf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-database-9.8.0_3775033d9bf5613d2bd9f703a070ebd3b6ccbf49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_bcb10e5cd5cf5ab2e2215d59009143a30b1f136c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_e052134fb60840b7cf3ae396ae0add2cb2792da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_79312015b2ab0ad111c6db3b5c26c1e069f2923b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_cc0cd0c72489186763fc678f597610b8cd8dec82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.volley-volley-1.0.0_fee133d05fbc114dacf0ad70b8e25c3c7dfb2304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_4a811518d36f292ba62656004904220f9c990926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\jackson-core-2.1.3_e3f0404a7f21931dd4c52c58d1ab3e277be22f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_cf7e82ac1354a75b54f675df208301cbbc6293d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\picasso-2.5.0_49367f3dbff032d7e282096870b58bc5dc6d9b68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_df3347250cb0f0e93ebe30c172eaf06eb143b4f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_ab00fe651660599ab24c4a37fb527aeb1e84a45c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\incremental-classes\flavor\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9adf516698b926db860542f37df095722eb043a7">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\instant-run-bootstrap_ce3cae4dbc80d1e184198b2d2c5d461c4e7716b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_0196e58d40f7e75330bab253e19910835b20ab52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\internal_impl-24.0.0_b3ccc54e0f3194d2affd108bd98135aa8be8f3fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\internal_impl-24.2.1_7ff3805aa324ad47be8c9ef40f59bd17730e1d8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_e42a6762e7baac462abe8b840cdc0009e1a5f60b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_17821c26589e9a855bc19adf8428494a4c25f405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_f6278a2cc81fa73b9150cc79ea8febfc5dcf0f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_e3d7582e99a60e0c4733640a317b365d26bd871c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_f43ee247e532798bfcf9fd20e6381bed7786648a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\core-3.2.1_522d635a6aea752ddb5f50d8006eb2b189e32131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_7fb86024ae7bc9dc5ebc39ffdb96b563e64bc7cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\internal_impl-24.2.1_f2e1f4601c4b62b29bcda692a52d2e2f326bb114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_08b8be2963f1ef6d2476b9251b83edcd839608d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_79312015b2ab0ad111c6db3b5c26c1e069f2923b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_2e4ffc3b8a59e674ec71431b318fb71522bc1546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-design-24.2.1_2f0a40d51753f99a1fe79ef10a5aec47ccc79bab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_6fe22ee8dcc4c6bbb61ec085428bccd8ecb5207a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_abca68037a5fc567398e0cf120316d77aa3966bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_52de6cd28b13676b959c92765d38f30aac916534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_5f385a144c4c2d547b845fd9cba868c98e0b481b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_49495fb83123f59e8ccb57e69834ea8d42e05d1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\jackson-core-2.1.3_e3f0404a7f21931dd4c52c58d1ab3e277be22f9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_6183833c2e872d5f4e809dc6ff776f75bec137ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_b7e29280cde38fa154524c6a8bf7ec589dc2a61e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\incremental-runtime-classes\flavor\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5912b21ace1f84d61310d1c17f727084546a8ee6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\instant-run_7a765b0ba2a2b00dcbfe8a12654166d60ca3c9fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_e052134fb60840b7cf3ae396ae0add2cb2792da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_8017c75460c05d217db601cf11d2062add944dea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_a3b3ba8477ffd79b102c67901647460ccd3a0684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_cc0cd0c72489186763fc678f597610b8cd8dec82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\internal_impl-24.2.1_79c73e8309ca74edb589d7c140656c3ff61fddc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.jakewharton-butterknife-8.4.0_ed4cc2088a536716640e6f867722ee8970261483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_e3d7582e99a60e0c4733640a317b365d26bd871c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_0196e58d40f7e75330bab253e19910835b20ab52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\me.dm7.barcodescanner-core-1.8.4_e35da226b69635f30c794ec3f9fd554bfb1e62a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_8099a8562ff90b05e860538b5c56cc3a07e18a76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_e42a6762e7baac462abe8b840cdc0009e1a5f60b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.volley-volley-1.0.0_9b003a1839f58e64eac663ecbd958d6620963b62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_d5e7de39c535b7aed4c9813f29b787f46af8893d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_29c96941659a9353a251cd950d0eaf195eee4e06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_e57c703872a14868e9b8bb6da8e49a2755870cdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_a47eed2f8f6c4fdccb7d2184d0dc278c97779b39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_517818e798d914251a7c6b4a07f06d0e941a8513\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_df1bf97098bc455af7c119db19529f1fc80e27df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\google-oauth-client-1.22.0_748faee55ba32060e2e6414da86da1ab2e7ba94c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\butterknife-annotations-8.4.0_6672421247a284eca425a7b657bfe35000c22f93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_07b6ccec7f51505eac515f647a198b0e55f32291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\google-oauth-client-1.22.0_748faee55ba32060e2e6414da86da1ab2e7ba94c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-design-24.2.1_2f0a40d51753f99a1fe79ef10a5aec47ccc79bab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_3f663ae527c97beac3007194cc9715eb232ef648\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_d122cb4ff025c43ba33278430f840b57d0bddf31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-support-fragment-24.2.1_5798d36d5fe3daa670def4b136ef0fb01b9ccef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\glide-3.7.0_0333896201bd27f27dc48f37be9ed8d7490c6e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_5c01eec24bd8da2bf5630a062d98a23a3a8f54e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_b6a40da36f4d1814f8aac33048b985a3c66d10f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_7ff3805aa324ad47be8c9ef40f59bd17730e1d8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_83c002bc431bdb0f8ba80b7e2efc02c047673806\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_abca68037a5fc567398e0cf120316d77aa3966bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_2819b7b5813071ce784c59d812b6da16e217df4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_83abe31a967f80b4d999bd07a72db5f4d3530cc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_588df3ef87828c9a3ef53a269fdc802f0f487ce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\internal_impl-24.2.1_7fb86024ae7bc9dc5ebc39ffdb96b563e64bc7cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_a3b3ba8477ffd79b102c67901647460ccd3a0684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_ff4f002f426f4f2edab16b20ca711914cfaac2bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_cd1407c6f929255dc19e637c99f2ab4274a7db96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_79c73e8309ca74edb589d7c140656c3ff61fddc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_62b68512308fb25814a89f5b0082b1aec0448c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-support-media-compat-24.2.1_0e0a5a0326eee22684c9d0374b953dc7c9fd2c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_b50f96ecd5642d0ff86281c87c34252471866936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_d6960782175e20b735f8472573652141c1e4f6f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_6143fa7101b9072efe42943d33c30cb122e3f76c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_1f22dcc89a4bd0c1a523146a9c9ccebcb5a780a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_ed4cc2088a536716640e6f867722ee8970261483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-design-24.2.1_692380e81c182fd27b19510bbe9d5d811295a1ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\me.dm7.barcodescanner-core-1.8.4_e35da226b69635f30c794ec3f9fd554bfb1e62a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_1b9ba01cf70444fd85362e5f73c006cb28fb54e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_db7a4408afee9034bc10474cec1c6eca9b6f64a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_51a3733431ff81c28fedc3488f1bc9d69f874d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_a8ade24401d5fd2e3a580c9ccdc3dd1332400329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_64f9a871e0f54bb62da74ab114000afa0196d801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\glide-3.7.0_0333896201bd27f27dc48f37be9ed8d7490c6e9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-multidex-1.0.1_1351ef9ef5f43292a2126a0b3b35d5a273606f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_c905bd79cf919c37f1608f40d3461e4163ff0402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_35d2b6e32828e80e830b8d0fd6767d9e7b0daa18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-support-core-ui-24.2.1_d9a6cf13ee907a4c44537ec28b5dffd3c1262bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_d5e7de39c535b7aed4c9813f29b787f46af8893d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_b35dca4801e1a8c22ac44d90e3108d13c40cb122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_305eaf502278adca1eb74642466a79ec0359e62d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_cd1e5f6081418db84ae78fb2f764265fa72fa9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_d763ec3ca2fb511d3327e146156dbdad7d2ff9d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-compat-24.2.1_eb066eddb262fdc1fe281dcbeb8327438ba21efc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_07b6ccec7f51505eac515f647a198b0e55f32291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_a792d3abb4d3f8385a7d415d013fc6db58dffa64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-v4-24.2.1_476b5f806163ad884da8887567648f36c73f97fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_bde94dbe2f624150d198c7c5745ad25ed089f5df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_d44cc56399f0da3d155e5fb759aaba85315c581e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5798d36d5fe3daa670def4b136ef0fb01b9ccef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_ef0abe92251d5e6d21412506784473a86502be21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_83c002bc431bdb0f8ba80b7e2efc02c047673806\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_7ce8e1418cbd0d8f299170ae80eeb4c710244dcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\internal_impl-24.2.1_2eb8be83b225ba7f4778c5697bf56189fdf0a09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_588df3ef87828c9a3ef53a269fdc802f0f487ce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_6143fa7101b9072efe42943d33c30cb122e3f76c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_4f3884a8cbb5228334d834151904f5e24c2a6f6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0e0a5a0326eee22684c9d0374b953dc7c9fd2c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_261a7944b245cc2490402a3e0f39f8485ba02b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_0107b3c27d5d0b3d626c733aaba2137355354582\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_e731b7363ae68850eb3c09682a020a33a1f9e5dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_4869588f786272ab2b0f8dbbd118da7fde805201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_30576e3de9148f59b17df06cebe7986c2df5a7ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_35d2b6e32828e80e830b8d0fd6767d9e7b0daa18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_c905bd79cf919c37f1608f40d3461e4163ff0402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_712e42b4e3d87f0cffc1f7abac6a39d477e20d0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\jsr305-1.3.9_7cd73fa6fb07cb145ab7bc0af6882888bc3bf849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_51a3733431ff81c28fedc3488f1bc9d69f874d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_b50f96ecd5642d0ff86281c87c34252471866936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_85ac71692c18e6f3a170002592a579aa783023b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_6fe22ee8dcc4c6bbb61ec085428bccd8ecb5207a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.0.0_b3ccc54e0f3194d2affd108bd98135aa8be8f3fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_27de83503da42da6df0d229cb79ab42c16d2500f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.8.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\me.dm7.barcodescanner-zxing-1.8.4_df44ad0dd83fe3a524dac4896eba5b2f822d2c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_b35dca4801e1a8c22ac44d90e3108d13c40cb122\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_817b957ee425739a3d14cb1420143a5366b3df88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.0.0_8e96f5f2f944c6a7b3aa8af99ac5f2b81d877b49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\support-annotations-24.2.1_7c3ca766f7a50edda8ee1cf27e086f1b14131ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_f2e1f4601c4b62b29bcda692a52d2e2f326bb114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\core-3.2.1_522d635a6aea752ddb5f50d8006eb2b189e32131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_a47eed2f8f6c4fdccb7d2184d0dc278c97779b39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\guava-jdk5-17.0_97ee8f2a80112af645c8ec427298eef30fdf07c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_52de6cd28b13676b959c92765d38f30aac916534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\incremental-classes\flavor\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3fc4e2995bfb3142ea02c9ff36501edfce200468">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\instant-run-bootstrap_ded273c73bdbf4b3788e4f3471b36989cb776620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_1e33706c006f49ff7964804d4756298beee88797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_261a7944b245cc2490402a3e0f39f8485ba02b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_caed36e495bda88f093054c1cc6c7f2de1ca7ed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_ef0abe92251d5e6d21412506784473a86502be21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_cd1e5f6081418db84ae78fb2f764265fa72fa9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\internal_impl-24.2.1_2eb8be83b225ba7f4778c5697bf56189fdf0a09b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\support-annotations-24.2.1_7c3ca766f7a50edda8ee1cf27e086f1b14131ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_8ecea9ac5a9f5a19615c2377e07a694998ff435e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_23b8ce3b4bb44b94a38c406b3e9f79007af06288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_a8ade24401d5fd2e3a580c9ccdc3dd1332400329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_b7e29280cde38fa154524c6a8bf7ec589dc2a61e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_0107b3c27d5d0b3d626c733aaba2137355354582\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_d763ec3ca2fb511d3327e146156dbdad7d2ff9d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Felipe\Documents\uqr\Projeto Atual\UQR\app\build\intermediates\transforms\dex\flavor\debug\folders\1000\10\jsr305-1.3.9_7cd73fa6fb07cb145ab7bc0af6882888bc3bf849\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_4869588f786272ab2b0f8dbbd118da7fde805201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Felipe\Documents\uqr\App UQR Playstore\UQR\app\build\intermediates\transforms\dex\flavor\release\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_1f22dcc89a4bd0c1a523146a9c9ccebcb5a780a8\classes.dex" />
+    </item>
+
+</items>
