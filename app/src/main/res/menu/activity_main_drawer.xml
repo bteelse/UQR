@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/setting">
+        <menu>
+
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/btnClickToQrCode"
+            android:icon="@drawable/ic_qrcode128"
+            android:title="@string/qr_7_days" />
+        <item
+            android:id="@+id/btnClickToQrCode2"
+            android:icon="@drawable/ic_qrcode128"
+            android:title="@string/qr_30_days" />
+        <item
+            android:id="@+id/btnClickToQrCode3"
+            android:icon="@drawable/ic_qrcode128"
+            android:title="@string/qr_90_days" />
+    </group>
+
+    <item android:title="@string/setting">
+        <menu>
+            <item
+                android:id="@+id/create_new_qr"
+                android:icon="@android:drawable/ic_menu_add"
+                android:title="@string/create_new_qr" />
+            <item
+                android:id="@+id/save_qr"
+                android:icon="@android:drawable/ic_menu_save"
+                android:title="@string/save_qr" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/icone_share_120"
+                android:title="@string/shareaproblem" />
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@android:drawable/btn_star_big_on"
+                android:title="@string/rate_us" />
+            <item
+                android:id="@+id/howtouse"
+                android:icon="@drawable/htuicon"
+                android:title="@string/howtouse" />
+            <item
+                android:id="@+id/btnLogout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/logout" />
+
+        </menu>
+    </item>
+
+</menu>
