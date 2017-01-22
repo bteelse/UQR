@@ -1,0 +1,76 @@
+apply plugin: 'com.android.application'
+
+android {
+    useLibrary 'org.apache.http.legacy'
+    lintOptions {
+
+        checkReleaseBuilds false
+
+    }
+    signingConfigs {
+        config1 {
+            keyAlias 'TESTECHAVE1'
+            keyPassword '1234!@#$qwer'
+            storeFile file('C:/Users/Felipe/Documents/uqr/Projeto Atual/UQR/app/keys/TesteChave1.jks')
+            storePassword '1234!@#$qwer'
+        }
+        config {
+            keyAlias 'PlusLogin'
+            keyPassword 'senha123'
+            storeFile file('C:/Users/Felipe/Documents/uqr/Projeto Atual/UQR/app/keys/pluslogin.jks')
+            storePassword 'senha123'
+        }
+
+    }
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+    defaultConfig {
+        applicationId "bteelse.uqr"
+        minSdkVersion 21
+        targetSdkVersion 24
+        versionCode 10
+        versionName "3.4"
+        signingConfig signingConfigs.config
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+        debug {
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+        flavor {
+        }
+    }
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.volley:volley:1.0.0'
+    compile 'com.google.zxing:core:3.2.1'
+    compile 'com.google.android.gms:play-services-auth:9.4.0'
+    compile 'com.google.android.gms:play-services-plus:9.4.0'
+    compile 'com.google.api-client:google-api-client:1.22.0'
+    compile 'me.dm7.barcodescanner:zxing:1.8.4'
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.google.android.gms:play-services-ads:9.4.0'
+    testCompile 'junit:junit:4.12'
+    compile 'com.google.android.gms:play-services-appindexing:9.4.0'
+    compile 'com.squareup.picasso:picasso:2.5.0'
+    compile 'com.google.android.gms:play-services:9.8.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.google.firebase:firebase-messaging:9.6.1'
+    compile 'com.google.android.gms:play-services:9.6.1'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.jakewharton:butterknife:8.4.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+}

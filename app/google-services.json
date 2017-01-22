@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256136130189",
+    "project_id": "firebase-uqrc"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256136130189:android:e7398767ba23a7ce",
+        "android_client_info": {
+          "package_name": "bteelse.uqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256136130189-nr2oi2qn6pl7hatcmn3u7b74impv2k5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bteelse.uqr",
+            "certificate_hash": "40B76C7E67E32816D17F1C7731A96FD2C11F605F"
+          }
+        },
+        {
+          "client_id": "256136130189-qof5vajnhm1o17qkkp711hgq9sk2q8pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHgLVzSz_0IuucBJMqybE2c9tTh6ynXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
